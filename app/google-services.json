@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482088673087",
+    "firebase_url": "https://forestapp-3b0f6.firebaseio.com",
+    "project_id": "forestapp-3b0f6",
+    "storage_bucket": "forestapp-3b0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482088673087:android:c74b4cdfe3ba1565767d8a",
+        "android_client_info": {
+          "package_name": "com.example.forestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482088673087-vq6f937ilv0qd3d9lvbinihfbnvs2a8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Pmp2DFG9mvPF0SK6ff3UC15VTlHIF4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482088673087-vq6f937ilv0qd3d9lvbinihfbnvs2a8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
